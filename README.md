@@ -63,13 +63,15 @@ https://github.com/elehobica/pico_st7735_80x160
 
 Here we have attached a GIF showing that we expect the red blocks to be overlapped with blcak ones to create an illusion that the blocks are moving. But it is still showing Red blocks throughout the loop while trying to use VGA Display.
 
-https://user-images.githubusercontent.com/73771085/205678908-88ad6501-cfff-45b9-9093-26903836ab2d.mp4
+https://user-images.githubusercontent.com/73771085/205679662-0d8bb6a2-115e-45ba-845c-08d28bcbd5fb.mp4
 
 We were able to figure out that this is due to loose connections and it can be overcome using a VGA Adapter.
 
 ## Demos:
 
-https://user-images.githubusercontent.com/73771085/205678971-22c410b7-2e0a-45a3-b758-c23f959f1f5e.mp4
+### Simulation on TFT Display:
+
+https://user-images.githubusercontent.com/73771085/205679577-25e75ea6-5d83-485d-864f-718360222224.mp4
 
 # Block Diagram:
 
