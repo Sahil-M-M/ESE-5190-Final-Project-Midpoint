@@ -59,6 +59,12 @@ https://github.com/elehobica/pico_st7735_80x160
 
 ![image](https://user-images.githubusercontent.com/73771085/205670947-48d818ee-7c5a-469f-a02d-dc45f3a6d882.png)
 
+## Design:
+
+### Co-ordinate calculations for fighter jet:
+
+![86f40bdc-6f76-4f70-abee-5e937e1ad94e](https://user-images.githubusercontent.com/73771085/205686629-0ad260d8-4903-4c12-ad14-0476f800b1f2.jpg)
+
 ## Troubleshooting:
 
 Here we have attached a GIF showing that we expect the red blocks to be overlapped with blcak ones to create an illusion that the blocks are moving. But it is still showing Red blocks throughout the loop while trying to use VGA Display.
